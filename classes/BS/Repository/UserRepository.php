@@ -68,6 +68,12 @@ class UserRepository extends BaseRepository
         );
         $resp = $sth->fetch(\PDO::FETCH_OBJ);
 
+        if (!$resp) {
+            $err = $sth->errorInfo();
+
+            throw new \Exception($err[2], $err[1]);
+        }
+
         $user = new User();
         foreach ($resp as $k => $v) {
             $user->{'set' . ucfirst($k)}($v);

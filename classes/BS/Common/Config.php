@@ -23,6 +23,7 @@ class Config
         'routes' => [
             // method::free|guarded::path => namespace of class::method
             'post::free|guarded::api\/auth(\/?)+$' => '\\BS\Controller\AuthController::auth',
+            'get::free|guarded::hierarchy(\/?)+$' => '\\BS\Controller\HierarchyController::build',
             'get::guarded::api\/users(\/?)+$' => '\\BS\Controller\UserController::index',
             'get::guarded::api\/users\/\d+(\/?)+$' => '\\BS\Controller\UserController::show',
             'post::guarded::api\/users\/create(\/?)+$' => '\\BS\Controller\UserController::create',
