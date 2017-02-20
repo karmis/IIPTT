@@ -3,9 +3,13 @@
 
 #### Create user:
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/76274b0f3a.jpg)
+
 ---
+
 or
+
 ---
+
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/eb3b9965f4.jpg)
 (becouse role with name BLABLABLS not exist)
 Request: POST
