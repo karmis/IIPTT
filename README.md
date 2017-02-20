@@ -38,10 +38,18 @@ where "data" contain passwortd for created user;
 
 #### Auth:
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/291ba666cc.jpg)
+
 ---
+
 or  
+
 ---
+
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/ea87c0e9a5.jpg)
+
+---
+
+
 Request: POST
 
 ```json
