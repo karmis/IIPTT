@@ -11,7 +11,11 @@ or
 ---
 
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/eb3b9965f4.jpg)
-(becouse role with name BLABLABLS not exist)
+
+---
+
+
+(becouse role with name BLABLABLS not exist)  
 Request: POST
 
 
@@ -50,9 +54,19 @@ Request: POST
 #### Auth:
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/291ba666cc.jpg)
 
+---
+
+
 or  
 
+---
+
+
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/ea87c0e9a5.jpg)
+
+---
+
+
 Request: POST
 
 ```json
@@ -64,6 +78,10 @@ Request: POST
 
 #### Edit: 
 ![](http://dl3.joxi.net/drive/2017/02/20/0004/1376/279904/04/ba4a0f91c2.jpg)
+
+---
+
+
 Request: POST
 ```json
 {
@@ -74,7 +92,11 @@ Request: POST
 ```
 
 #### Delete: 
+
 ![](http://dl4.joxi.net/drive/2017/02/20/0004/1376/279904/04/eaf5abefbe.jpg)
+
+
+---
 
 
 #### Verifying of rights
